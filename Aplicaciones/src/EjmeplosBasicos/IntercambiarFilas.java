@@ -11,16 +11,9 @@ import java.util.Scanner;
  *
  * @author Usuario
  */
-public class Principal {
+public class IntercambiarFilas {
     
-    public int valor;
-    public int valor2;
-    
-    
-    public Principal(){
-        valor=1;
-        valor2=2;
-    }
+   
     public static void main(String args[]){
         
        
